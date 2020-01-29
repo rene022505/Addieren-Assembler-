@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>C:\Users\rene\Documents\Schule J1\Atmel\Addieren\Addieren\Addieren\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\rene\Documents\Schule J1\Atmel\Addieren\Addieren\Addieren\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\rene\Documents\Schule J1\Atmel\Addieren\Addieren\Addieren\Debug\Addieren.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Addieren.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Addieren.map</FILE>
+  <FILE>Addieren.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <loop><FILE>C:\Users\rene\Documents\Schule J1\Atmel\Addieren\Addieren\Addieren\main.asm</FILE><LINE>20</LINE></loop>
+  <isset><FILE>C:\Users\rene\Documents\Schule J1\Atmel\Addieren\Addieren\Addieren\main.asm</FILE><LINE>29</LINE></isset>
+  <notset><FILE>C:\Users\rene\Documents\Schule J1\Atmel\Addieren\Addieren\Addieren\main.asm</FILE><LINE>26</LINE></notset>
+ </LABELS>
+</ASSEMBLER_INFO>
